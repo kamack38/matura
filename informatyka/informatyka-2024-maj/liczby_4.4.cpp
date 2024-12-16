@@ -3,8 +3,9 @@
 using namespace std;
 
 int main() {
-    ifstream file("liczby.txt");
-    ofstream output("wyniki4_4.txt");
+    ifstream file("dane/liczby.txt");
+    ofstream output("wyniki/wynik_4.4.txt");
+
     vector<int> w1, w2;
     string l1, l2;
     getline(file, l1);
@@ -30,6 +31,7 @@ int main() {
             }
         }
     }
+    cout << setprecision(10) << max_avg << ' ' << max_len << ' ' << num;
     output << setprecision(10) << max_avg << ' ' << max_len << ' ' << num;
     file.close();
 }

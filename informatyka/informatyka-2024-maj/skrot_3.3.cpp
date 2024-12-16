@@ -7,7 +7,7 @@ int skrot(int n) {
     while (n > 0) {
         int a = n % 10;
         n = n / 10;
-        if (a & 1 != 0) {
+        if ((a & 1) != 0) {
             m = m + b * a;
             b = b * 10;
         }
@@ -16,13 +16,14 @@ int skrot(int n) {
 }
 
 int main() {
-    std::ifstream file("skrot2.txt");
-    ofstream output("wyniki3_3.txt");
-    int a;
+    ifstream file("dane/skrot.txt");
+    ofstream output("wyniki/wynik_3.3.txt");
+
     int line;
     while (file >> line) {
         int sk = skrot(line);
         if (__gcd(sk, line) == 7) {
+            cout << line << '\n';
             output << line << '\n';
         }
     }

@@ -3,7 +3,9 @@
 using namespace std;
 
 int main() {
-    ifstream file("liczby.txt");
+    ifstream file("dane/liczby.txt");
+    ofstream output("wyniki/wynik_4.3.txt");
+
     vector<int> w1, w2;
     string l1, l2;
     getline(file, l1);
@@ -25,6 +27,7 @@ int main() {
         }
         if (x == 1) {
             cout << pres_x << ' ';
+            output << pres_x << ' ';
         }
     }
     file.close();
