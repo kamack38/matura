@@ -1,0 +1,1 @@
+SELECT WIZYTY.pesel from WIZYTY join PACJENCI on PACJENCI.pesel = WIZYTY.pesel join PUNKT_SZCZEPIEN on PUNKT_SZCZEPIEN.kod_punktu = WIZYTY.kod_punktu WHERE PACJENCI.wojewodztwo_pacjenta != PUNKT_SZCZEPIEN.wojewodztwo_punktu

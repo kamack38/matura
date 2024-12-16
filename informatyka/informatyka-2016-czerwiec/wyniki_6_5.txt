@@ -1,0 +1,2 @@
+Najmniejsza: 100002,kod: 16
+Najwieksza: 8066218209,kod: 347931225

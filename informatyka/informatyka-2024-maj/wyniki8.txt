@@ -1,0 +1,12 @@
+8.1 Imię i Nazwisko: Rafael Blake Kwota: 3700
+8.2 Miesiąc: Listopad Liczba Punktów: 1766
+8.3 
+Imie	Nazwisko	NrRejestracyjny
+Sandra	Wheeler	BHW4028
+Quynn	Travis	CJX1859
+Jasper	Santos	KNM7950
+Honorato	Roth	NIP6570
+Ivy	Bowen	QFR8936
+Helen	White	SRU9727
+Quentin	Tyler	XHK9060
+Kevin	Wright	YYS1077

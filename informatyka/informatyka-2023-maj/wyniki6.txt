@@ -1,0 +1,9 @@
+6.2 19
+6.3
+malinowo-porzeczkowe	41
+malinowo-truskawkowe	72
+truskawkowo-porzeczkowe	40
+6.4
+truskawkowo-porzeczkowe	18382
+malinowo-truskawkowe	29732
+malinowo-porzeczkowe	18008

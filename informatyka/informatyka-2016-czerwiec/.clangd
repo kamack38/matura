@@ -1,0 +1,9 @@
+CompileFlags:
+  Add: 
+    - "-I"
+    - "C:/ProgramData/mingw64/mingw64/include"
+    - "-I"
+    - "C:/ProgramData/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"
+    - "-I"
+    - "C:/ProgramData/mingw64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/include"
+    - "--gcc-toolchain=C:/ProgramData/mingw64/mingw64"
