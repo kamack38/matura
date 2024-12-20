@@ -34,8 +34,10 @@ Użyte programy:
 | informatyka-2018-czerwiec               |    |    | ✅ |    |    |    |
 | informatyka-2018-maj                    |    |    | ✅ |    |    |    |
 | informatyka-2018-maj-stara              |    | ✅ |    |    |    |    |
+| informatyka-2019-czerwiec               |    |    | ✅ |    |    |    |
 | informatyka-2019-maj                    |    |    | ✅ |    |    |    |
 | informatyka-2019-maj-stara              |    |    |    | ✅ |    |    |
+| informatyka-2020-czerwiec-stara         |    |    | ✅ |    |    |    |
 | informatyka-2022-maj                    |    |    | ✅ |    |    |    |
 | informatyka-2023-maj                    |    |    |    | ✅ |    |    |
 | informatyka-2024-czerwiec               | ✅ | ✅ |    |    |    | ✅ |
