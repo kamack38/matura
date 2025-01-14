@@ -1,0 +1,40 @@
+﻿5.1
+Długość	Liczba
+1	11
+2	9
+3	9
+4	7
+5	6
+6	10
+7	11
+8	6
+9	12
+10	8
+11	16
+12	14
+13	7
+14	12
+15	6
+
+5.2
+Miasta	Liczba Samochodów
+1	78
+2	21
+
+5.3
+a) 114
+b) 19:54
+
+5.4
+Godzina Pracy	Liczba klientów
+1	9
+2	8
+3	7
+4	9
+5	5
+6	10
+
+5.5
+Druga rezygnacja	KP566
+Liczba rezygnacji	44
+Najdłuższy ciąg rezygnacji	3
