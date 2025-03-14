@@ -15,7 +15,7 @@ Użyte programy:
 
 | Matura                                  | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | --------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
-| informatyka-2005-maj                    |    |    | ✅ |    |    |    |    |
+| informatyka-2005-maj                    |    |    | ✅ |    | ✅ |    |    |
 | informatyka-2010-maj                    |    |    |    | ✅ |    |    |    |
 | informatyka-2011-maj                    |    |    | ✅ |    |    |    |    |
 | informatyka-2012-maj                    |    |    |    | ✅ |    |    |    |
@@ -39,6 +39,7 @@ Użyte programy:
 | informatyka-2019-maj-stara              |    |    |    |    | ✅ |    |    |
 | informatyka-2020-czerwiec-stara         |    |    |    | ✅ |    |    |    |
 | informatyka-2020-lipiec                 |    |    |    | ✅ |    |    |    |
+| informatyka-2021-marzec                 |    |    |    | ✅ |    |    |    |
 | informatyka-2022-maj                    |    |    |    | ✅ |    |    |    |
 | informatyka-2023-maj                    | ✅ | ✅ |    |    | ✅ |    |    |
 | informatyka-2024-czerwiec               |    | ✅ | ✅ |    |    |    | ✅ |
