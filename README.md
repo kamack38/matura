@@ -10,7 +10,7 @@ Arkusze maturalne są dostępne na stronie [arkusze.pl](https://arkusze.pl)
 Użyte programy:
 
 - C++ (G++ / MingW)
-- Microsoft Excel 2019
+- Microsoft Excel 2016/2019
 - Microsoft Access 2016
 
 | Matura                                  | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
