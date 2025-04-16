@@ -16,20 +16,21 @@ Użyte programy:
 | Matura                                  | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | --------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
 | informatyka-2005-maj                    |    |    | ✅ |    | ✅ |    |    |
-| informatyka-2010-maj                    |    |    |    | ✅ |    |    |    |
-| informatyka-2011-maj                    |    |    | ✅ |    |    |    |    |
-| informatyka-2012-maj                    |    |    |    | ✅ |    |    |    |
-| informatyka-2013-maj                    |    |    | ✅ |    |    |    |    |
+| informatyka-2010-maj                    |    |    |    | ✅ | ✅ |    |    |
+| informatyka-2011-maj                    |    |    | ✅ | ✅ |    |    |    |
+| informatyka-2012-maj                    |    |    |    | ✅ | ✅ |    |    |
+| informatyka-2013-maj                    |    |    | ✅ | ✅ |    |    |    |
 | informatyka-2014-grudzien-probna        |    |    |    | ✅ |    |    |    |
-| informatyka-2014-maj                    |    |    | ✅ |    |    |    |    |
+| informatyka-2014-maj                    |    |    | ✅ |    | ✅ |    |    |
 | informatyka-2015-czerwiec               |    |    | ✅ |    |    |    |    |
-| informatyka-2015-maj                    |    |    |    | ✅ |    |    |    |
+| informatyka-2015-maj                    |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2015-maj-stara              |    |    |    |    | ✅ |    |    |
 | informatyka-2015-przykladowy-arkusz-cke |    |    |    | ✅ |    |    |    |
 | informatyka-2016-czerwiec               |    |    | ✅ |    | ✅ |    |    |
-| informatyka-2016-maj                    |    |    | ✅ |    |    |    |    |
+| informatyka-2016-maj                    |    |    | ✅ | ✅ |    |    |    |
 | informatyka-2016-maj-stara              |    |    | ✅ |    |    |    |    |
 | informatyka-2017-czerwiec               |    |    |    | ✅ |    |    |    |
+| informatyka-2017-maj                    |    |    |    | ✅ |    |    |    |
 | informatyka-2017-maj-stara              |    |    |    | ✅ |    |    |    |
 | informatyka-2018-czerwiec               |    |    |    | ✅ |    |    |    |
 | informatyka-2018-maj                    |    |    |    | ✅ |    |    |    |
@@ -55,3 +56,4 @@ Użyte programy:
 | informatyka-podstawa-2018-maj           |    |    |    |    | ✅ |    |    |
 | informatyka-podstawa-2019-maj           |    |    | ✅ |    |    |    |    |
 | informatyka-podstawa-2020-czerwiec      |    |    |    | ✅ | ✅ |    |    |
+| zbiór-zadań                             |    |    |    |    |    |    |    |
