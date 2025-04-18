@@ -1,0 +1,53 @@
+6.1
+Id_oferty	Imie	Nazwisko
+AB553DN	Karol	Zakowicz
+
+6.2
+Woj	ŚredniaCena
+dolnoslaskie	345 000,00 zł
+kujawsko-pomorskie	299 000,00 zł
+lodzkie	304 100,00 zł
+lubelskie	260 879,33 zł
+lubuskie	227 283,33 zł
+malopolskie	650 000,00 zł
+mazowieckie	267 082,83 zł
+opolskie	400 000,00 zł
+podkarpackie	301 312,50 zł
+podlaskie	271 206,95 zł
+pomorskie	414 150,00 zł
+swietokrzyskie	319 207,63 zł
+warminsko-mazurskie	132 450,00 zł
+wielkopolskie	298 600,00 zł
+zachodniopomorskie	269 025,20 zł
+
+6.3
+Imie	Nazwisko	Id_oferty	Woj	Pow	Cena
+Piotr	Kopacz	AB543MT	podlaskie	85	325 000,00 zł
+Adam	Nowak	AB557MT	lubelskie	83	349 000,00 zł
+Karol	Zakowicz	AB644MT	mazowieckie	76	174 500,00 zł
+Milena	Karwik	AB691MT	lubuskie	39	170 000,00 zł
+Adam	Nowak	AB695MT	podkarpackie	162	420 800,00 zł
+Rozalia	Siedlecka	AB696MT	wielkopolskie	42	160 000,00 zł
+Karol	Szwarc	AB699MT	lodzkie	68	190 500,00 zł
+Krzysztof	Nowak	AB700MT	mazowieckie	85	265 000,00 zł
+Adam	Nowak	AB702MT	mazowieckie	49	186 000,00 zł
+
+6.4
+Imie	Nazwisko
+Jerzy	Andrzejewski
+Krzysztof	Nowak
+Milena	Karwik
+
+6.5
+Id_oferty	Pow	L_laz	Cena	Imie	Nazwisko
+AB672DT	212	2	575 000,00 zł	Sebastian	Babij
+AB683DN	195	2	395 800,00 zł	Piotr	Kopacz
+AB692DT	244	3	650 000,00 zł	Piotr	Kopacz
+AB682DN	203	3	485 000,00 zł	Adam	Nowak
+AB686MN	192	2	375 000,00 zł	Adam	Nowak
+AB680DT	220	2	520 000,00 zł	Adam	Nowak
+AB666DN	220	3	450 000,00 zł	Krzysztof	Nowak
+AB693DN	182	2	425 000,00 zł	Krzysztof	Nowak
+AB697DN	195	2	460 000,00 zł	Karol	Szwarc
+AB694DN	212	3	630 000,00 zł	Karol	Szwarc
+AB670DN	208	3	358 400,00 zł	Karol	Zakowicz
