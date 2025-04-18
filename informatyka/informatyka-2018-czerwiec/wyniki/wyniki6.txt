@@ -1,0 +1,36 @@
+6.1
+Imie	Nazwisko	Nr_rej	Czas	Naleznosc
+Nela	Aabacka	WI1150	2	160,00 zł
+Aaricia	Zgbacka	WI1126	11	880,00 zł
+
+6.2
+Klasa	Liczba
+B	100
+C	48
+D	53
+
+6.3
+Imie	Nazwisko	LiczbaWypożyczeń
+Ramzes	Hcbacki	5
+
+6.4
+Miejscowosc	Klasa	Liczba
+Aniolkowo	B	10
+Aniolkowo	C	1
+Aniolkowo	D	5
+Manipulatowo	B	23
+Manipulatowo	C	9
+Manipulatowo	D	14
+Nieszczerzyn	B	18
+Nieszczerzyn	C	11
+Nieszczerzyn	D	10
+Piarowa	B	21
+Piarowa	C	15
+Piarowa	D	9
+Wielka Wola	B	28
+Wielka Wola	C	12
+Wielka Wola	D	15
+
+6.5
+LizbaKlientów
+72
