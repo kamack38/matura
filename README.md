@@ -20,27 +20,27 @@ Użyte programy:
 | informatyka-2011-maj                    |    |    | ✅ | ✅ |    |    |    |
 | informatyka-2012-maj                    |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2013-maj                    |    |    | ✅ | ✅ |    |    |    |
-| informatyka-2014-grudzien-probna        |    |    |    | ✅ |    |    |    |
+| informatyka-2014-grudzien-probna        |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2014-maj                    |    |    | ✅ |    | ✅ |    |    |
-| informatyka-2015-czerwiec               |    |    | ✅ |    |    |    |    |
+| informatyka-2015-czerwiec               |    |    | ✅ | ✅ |    |    |    |
 | informatyka-2015-maj                    |    |    |    | ✅ | ✅ |    |    |
-| informatyka-2015-maj-stara              |    |    |    |    | ✅ |    |    |
+| informatyka-2015-maj-stara              |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2015-przykladowy-arkusz-cke |    |    |    | ✅ |    |    |    |
-| informatyka-2016-czerwiec               |    |    | ✅ |    | ✅ |    |    |
+| informatyka-2016-czerwiec               |    |    | ✅ | ✅ |    |    |    |
 | informatyka-2016-maj                    |    |    | ✅ | ✅ |    |    |    |
-| informatyka-2016-maj-stara              |    |    | ✅ |    |    |    |    |
-| informatyka-2017-czerwiec               |    |    |    | ✅ |    |    |    |
+| informatyka-2016-maj-stara              |    |    | ✅ |    | ✅ |    |    |
+| informatyka-2017-czerwiec               |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2017-maj                    |    |    |    | ✅ |    |    |    |
-| informatyka-2017-maj-stara              |    |    |    | ✅ |    |    |    |
-| informatyka-2018-czerwiec               |    |    |    | ✅ |    |    |    |
+| informatyka-2017-maj-stara              |    |    |    | ✅ | ✅ |    |    |
+| informatyka-2018-czerwiec               |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2018-maj                    |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2018-maj-stara              |    |    | ✅ |    |    |    |    |
-| informatyka-2019-czerwiec               |    |    |    | ✅ |    |    |    |
+| informatyka-2019-czerwiec               |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2019-maj                    |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2019-maj-stara              |    |    |    |    | ✅ |    |    |
 | informatyka-2020-czerwiec               |    |    |    | ✅ |    |    |    |
 | informatyka-2020-czerwiec-stara         |    |    |    | ✅ |    |    |    |
-| informatyka-2020-lipiec                 |    |    |    | ✅ |    |    |    |
+| informatyka-2020-lipiec                 |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2021-maj                    |    |    |    |    | ✅ |    |    |
 | informatyka-2021-marzec                 |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2022-maj                    |    |    |    | ✅ | ✅ |    |    |
