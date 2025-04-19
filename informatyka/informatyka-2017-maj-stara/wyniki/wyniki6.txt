@@ -1,0 +1,37 @@
+6.1
+imie	nazwisko
+Sylwia	Adamska
+Marcin	Ciesielski
+Pawel	Dziminski
+Klaudia	Kapuscinska
+Ewelina	Lagun
+Michal	Majewski
+Katarzyna	Michalak
+Kamila	Olobry
+Piotr	Otorowski
+Danuta	Pawezowska
+Tomasz	Stefanczyk
+Pawel	Straciuk
+Monika	Wer
+
+6.2
+imie	nazwisko	Cena
+Marcin	Ciesielski	34 017,50 zł
+
+6.3
+Miesiąc	Liczba wycieczek
+czerwiec	76
+lipiec	505
+sierpień	291
+wrzesień	28
+
+
+6.4
+kraj	Gdansk	Katowice	Krakow	Lodz	Poznan	Warszawa	Wroclaw
+Bulgaria	26	19	17	22	24	20	25
+Egipt	20	49	14	3	21	26	22
+Grecja	27	26	25	33	17	29	19
+Hiszpania	19	31	12	19	17	25	26
+Maroko	21	22	26	26	23	21	28
+Tunezja	23	26	13	32	20	25	25
+Turcja	17	23	22	30	23	24	18
