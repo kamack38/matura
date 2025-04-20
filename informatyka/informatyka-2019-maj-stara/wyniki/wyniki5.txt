@@ -1,0 +1,54 @@
+5.1
+kraj_urodzenia	LiczbaOscarów
+Austria	1
+Wegry	1
+Ukraina	1
+Belgia	1
+Szkocja	1
+Grecja	1
+Rumunia	1
+RPA	1
+Niemcy	2
+Hiszpania	2
+Indie	2
+Irlandia	2
+Meksyk	2
+Szwecja	2
+Japonia	3
+Wlochy	3
+Rosja	3
+Portoryko	3
+Francja	4
+Australia	6
+Kanada	8
+Wielkia Brytania	38
+Stany Zjednoczone	204
+
+5.2
+Wiek	imie	nazwisko
+10	Tatum	ONeal
+
+5.3
+imie	nazwisko	id_aktora
+Katharine	Hepburn	127_A
+
+tytul	rok
+Lew w zimie	1968
+Nad zlotym stawem	1981
+Poranna chwala	1932
+Zgadnij, kto przyjdzie na obiad	1967
+
+5.4
+imie	nazwisko	Okres
+Cate	Blanchett	9
+Denzel	Washington	12
+Gene	Hackman	21
+Helen	Hayes	39
+Ingrid	Bergman	30
+Jack	Lemmon	18
+Jack	Nicholson	14
+Jessica	Lange	12
+Kevin	Spacey	4
+Maggie	Smith	9
+Meryl	Streep	32
+Robert	De Niro	6
