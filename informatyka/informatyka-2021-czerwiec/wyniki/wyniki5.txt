@@ -1,0 +1,27 @@
+5.1
+Przychód:	39 600,00 zł
+Koszty	15 950,00 zł
+Pierwszy dochód	1.06.2023
+
+5.2
+styczeń	-7430
+luty	600
+marzec	1590
+kwiecień	2250
+maj	2850
+czerwiec	3660
+lipiec	4920
+sierpień	5610
+wrzesień	4320
+październik	1890
+listopad	2040
+grudzień	1350
+
+5.3
+a)	47
+b)	57
+c)	66
+
+5.4
+Łączne koszty	 100 655,00 zł 
+Łączne przychody	 249 630,00 zł 
