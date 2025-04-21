@@ -1,0 +1,19 @@
+5.1
+Ciąg	15
+Początek	17.08.2022
+Koniec	31.08.2022
+
+5.2
+Etykiety wierszy	Suma z Hot dog	Suma z Lody	Suma z Kukurydza
+czerwiec	2639	3527	2355
+lipiec	2747	3675	2448
+sierpień	2665	3579	2390
+
+5.3
+Dzień	27.06.2022
+Suma	 45 358,00 zł 
+
+
+5.4
+a)	Pierwszy dzień	23.09.2022
+b)	Podniesienie	1,34
