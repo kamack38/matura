@@ -34,15 +34,18 @@ Użyte programy:
 | informatyka-2017-maj-stara              |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2018-czerwiec               |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2018-maj                    |    |    |    | ✅ | ✅ |    |    |
-| informatyka-2018-maj-stara              |    |    | ✅ |    |    |    |    |
+| informatyka-2018-maj-stara              |    |    | ✅ | ✅ |    |    |    |
 | informatyka-2019-czerwiec               |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2019-maj                    |    |    |    | ✅ | ✅ |    |    |
-| informatyka-2019-maj-stara              |    |    |    |    | ✅ |    |    |
+| informatyka-2019-maj-stara              |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2020-czerwiec               |    |    |    | ✅ |    |    |    |
 | informatyka-2020-czerwiec-stara         |    |    |    | ✅ |    |    |    |
+| informatyka-2020-kwiecien               |    |    |    |    | ✅ |    |    |
 | informatyka-2020-lipiec                 |    |    |    | ✅ | ✅ |    |    |
+| informatyka-2021-czerwiec               |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2021-maj                    |    |    |    |    | ✅ |    |    |
 | informatyka-2021-marzec                 |    |    |    | ✅ | ✅ |    |    |
+| informatyka-2022-czerwiec               |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2022-maj                    |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2023-maj                    | ✅ | ✅ |    |    | ✅ | ✅ |    |
 | informatyka-2024-czerwiec               |    | ✅ | ✅ |    |    | ✅ | ✅ |
