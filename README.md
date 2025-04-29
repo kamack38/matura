@@ -43,7 +43,7 @@ Użyte programy:
 | informatyka-2020-kwiecien               |    |    |    |    | ✅ |    |    |
 | informatyka-2020-lipiec                 |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2021-czerwiec               |    |    |    | ✅ | ✅ |    |    |
-| informatyka-2021-maj                    |    |    |    |    | ✅ |    |    |
+| informatyka-2021-maj                    |    |    | ✅ |    | ✅ |    |    |
 | informatyka-2021-marzec                 |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2022-czerwiec               |    |    |    | ✅ | ✅ |    |    |
 | informatyka-2022-maj                    |    |    |    | ✅ | ✅ |    |    |
