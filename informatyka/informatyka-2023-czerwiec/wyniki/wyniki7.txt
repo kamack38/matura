@@ -1,0 +1,21 @@
+7.1
+TypUrządzenia	LiczbaInstalacji
+PC	16
+Phone	2814
+Tablet	267
+
+7.2
+producent_u	LiczbaInstalacji
+Samsung	478
+
+7.3
+nazwa_k	LInstalacjiNaMln
+SWITZERLAND	5,28
+SLOVENIA	4,35
+IRELAND	3,91
+AUSTRIA	3,84
+CZECH REPUBLIC	3,76
+
+7.4
+kod_u	nazwa_u	PoliczOfkod_k
+11935	Galaxy Tab A (2016)	20
