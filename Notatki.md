@@ -79,3 +79,17 @@ int GCD(int a, int b) {
   return GCD(b % a, a);
 }
 ```
+
+#### Pierwiastek
+
+```c++
+double pierwiastek(double P, double eps) {
+  double a = 1., b = P;
+  while(fabs(a-b)>=eps) {
+    a = (a+b)/2.;   
+    b = P/a;
+  }
+
+  return (a+b)/2.; 
+}
+```
