@@ -39,6 +39,14 @@
 
 ## C++
 
+### Funkcje
+
+- `stoi(string liczba, int* pointer, int baza)` - zamiana `stringa` na liczbę o danej `bazie`
+- `bitset<16>(int liczba).to_string()` - zamiana liczby na system binarny
+- `"string".substr(int start, int dlugosc)` - otrzymanie podciągu
+- `"string".find(string szukany_podciąg, int początek)` - szuka podciągu w ciągu. Zwraca `std::string::npos`, gdy nie znajdzie go
+- `"string".insert(0, string ciąg)` - dodaje `ciąg` do przed danym ciągiem
+
 ### Algorytmy
 
 #### Quicksort
