@@ -36,3 +36,38 @@
 - <kbd>e</kbd> - plik zawiera nagłówki
 - <kbd>w</kbd> - wybierz własny klucz podstawowy
 - kwerendy krzyżowe
+
+## C++
+
+### Algorytmy
+
+#### Quicksort
+
+```c++
+void quicksort(int left, int right) {
+  if (left >= right) return;
+  int mid = T[(left + right) / 2], i = left, j = right;
+  while (true) {
+    while (mid > T[i]) ++i;
+    while (mid < T[j]) --j;
+    if (i <= j) {
+      swap(T[i], T[j]);
+      ++i;
+      --j;
+    } else {
+      break;
+    }
+  }
+  if (j > left) quicksort(left, j);
+  if (i < right) quicksort(i, right);
+}
+```
+
+#### GCD
+
+```c++
+int GCD(int a, int b) {
+  if (b == 0) return a;
+  return GCD(b % a, a);
+}
+```
