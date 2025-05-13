@@ -1,0 +1,6 @@
+wyw: 1, x: 10, y: 45, k: 22, z: 220, wynik: 450
+wyw: 2, x: 10, y: 22, k: 11, z: 110, wynik: 220
+wyw: 3, x: 10, y: 11, k: 5, z: 50, wynik: 110
+wyw: 4, x: 10, y: 5, k: 2, z: 20, wynik: 50
+wyw: 5, x: 10, y: 2, k: 1, z: 10, wynik: 20
+wyw: 6, x: 10, y: 1, k: 0, z: 0, wynik: 10
